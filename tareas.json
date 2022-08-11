@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "Correr",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Disparar",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "saltar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "observar",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "escribir",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "analizar",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "agacharse",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "cargar",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "licenciado en ciencia politica",
+        "estado": "pendiente"
+    }
+]
